@@ -1,2 +1,4 @@
 ini adalah file 2
 feature A
+feature B
+
